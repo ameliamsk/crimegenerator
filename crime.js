@@ -44,7 +44,7 @@ var array =
 "put drugs in someone else's locker",
 "prepare food without washing your hands",
 "drive without a license",
-"switch two licence plates",
+"switch two license plates",
 "spy on people",
 "prank call the police",
 "get involved in a riot",
