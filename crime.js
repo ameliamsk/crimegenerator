@@ -30,7 +30,7 @@ var array =
 "play pokemon go while driving",
 "bring weapons into church",
 "ride your bike on the sidewalk",
-"don't wear seatbelt while driving",
+"don't wear a seatbelt while driving",
 "sell a car on Sunday",
 "don't turn down music when your neighbors complain",
 "do LSD",
