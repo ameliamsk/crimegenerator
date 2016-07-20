@@ -5,10 +5,10 @@ document.body.appendChild(crime);
 canvas.width = 1000;
 canvas.height = 100;
 
-ctx.fillStyle = 'gray';
+ctx.fillStyle = 'orange';
 ctx.fillRect(10,30, canvas.width, canvas.height);
 
-ctx.fillStyle = 'orange';
+ctx.fillStyle = 'white';
 
 var array =
 [
