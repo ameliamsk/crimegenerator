@@ -8,36 +8,6 @@ canvas.height = 100;
 ctx.fillStyle = 'gray';
 ctx.fillRect(10,30, canvas.width, canvas.height);
 
-// var x;
-
-// var update = function()
-// {
-//     x++;
-
-// };
-
-// var render = function()
-// {
-//     ctx.clearRect(0, 0, canvas.width, canvas.height);
-//     ctx.fillStyle = 'gray';
-//     ctx.fillRect(10,30, canvas.width, canvas.height);
-//     ctx.fillStyle = 'purple';
-//     ctx.FillRect(x, 200, 50, 50);
-
-// };
-
-// var main = function()
-// {
-//     update();
-//     render();
-
-//     requestAnimationFrame(main);
-// };
-
-// main();
-// requestAnimationFrame = window.RequestAnimationFrame;
-
-
 var array =
 [
 "plagiarize a website",
