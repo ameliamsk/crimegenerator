@@ -1,0 +1,21 @@
+body
+{
+    color: white;
+    background-color: slategray;
+}
+
+p#1 {
+    border-style: solid;
+    border-radius: 10px;
+    width: 20%;
+    text-align: center;
+    position: relative;
+    left: 600px;
+    top: 100px;
+}
+
+p#2 {
+    position: relative;
+    left: 10 px;
+    top: 700 px;
+}
