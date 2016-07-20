@@ -1,7 +1,7 @@
 body
 {
     color: white;
-    background-image: http://www.guns.com/wp-content/uploads/2014/02/arson.jpg;
+    background-image: url ("http://www.guns.com/wp-content/uploads/2014/02/arson.jpg");
 }
 
 p#1 {
