@@ -8,7 +8,7 @@ canvas.height = 100;
 ctx.fillStyle = 'gray';
 ctx.fillRect(10,30, canvas.width, canvas.height);
 
-ctx.fillStyle = 'white';
+ctx.fillStyle = 'orange';
 
 var array =
 [
